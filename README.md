@@ -2,7 +2,7 @@
 - 👀 I’m interested in software, hardware, other tech, video games, and fitness.
 - 🌱 I’m currently re/learning Full Stack JS
 - 💞️ I’m looking to collaborate on anything mutually beneficial.
-- 📫 How to reach me: atimw36@gmail.com
+- 📫 How to reach me: ** atimw36@gmail.com ** https://www.linkedin.com/in/tim-windhorst-9979308b/ ** https://www.codecademy.com/profiles/aTIMw **
 
 <!---
 atimw/atimw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
