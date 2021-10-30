@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atimw. I've been building and maintaining Drupal sites for 5 years. I've become a well rounded wearer of many hats. Working on becoming dangerously skilled with full-stack development.
+- 👋 Hi, I’m @atimw. I've been building and maintaining Drupal sites for 5 years. I've become a well rounded wearer of many hats. Working on becoming more full-stack / software focused.
 - 👀 I’m interested in software, hardware, other tech, video games, and fitness.
 - 🌱 I’m currently re/learning Full Stack JS
 - 💞️ I’m looking to collaborate on anything mutually beneficial.
